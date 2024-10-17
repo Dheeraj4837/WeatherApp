@@ -1,0 +1,7 @@
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+https://api.openweathermap.org/data/2.5/weather?units=metric&q=lucknow&appid=57ba193832f804d1ec9e5af253bfc917
+
+
+
+57ba193832f804d1ec9e5af253bfc917
